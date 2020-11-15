@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testHadoop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testHadoop_jar</output-path>
+    <root id="archive" name="testHadoop.jar">
+      <element id="module-output" name="testHadoop" />
+    </root>
+  </artifact>
+</component>

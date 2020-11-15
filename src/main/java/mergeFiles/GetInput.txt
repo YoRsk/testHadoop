@@ -1,0 +1,3 @@
+Hello!World
+i am inputfile1!and i am inputfile2!!
+hello!
